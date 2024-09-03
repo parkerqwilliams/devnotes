@@ -1,6 +1,6 @@
 # Developer Log
 
-## Dev Logs
+## Activity
 
 #### 2024-09-03
 
