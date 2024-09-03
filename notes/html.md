@@ -1,5 +1,5 @@
 # HTML
 
-## HOW IT WORKS
+## Notes
 
 HTML stands for hypertext markup language
