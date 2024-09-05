@@ -4,7 +4,7 @@
 
 ### Tags
 
-<!--Tags are used for text, images, and organization on a webpage.
+Tags are used for text, images, and organization on a webpage.
 The tag type goes between 2 sets of brackets: <h1> </h1>
 
 header: h1, h2, h3
