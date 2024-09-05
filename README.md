@@ -12,3 +12,7 @@
 - Created an HTML/CSS project folder
 - Started learning HTML with a cat website (freeCodeCamp/James McArthur)
 - Live Server, tag types, header/text sizes, image embedding, sections/divs
+
+#### 2024-09-05
+
+- 
