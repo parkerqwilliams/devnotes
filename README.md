@@ -19,4 +19,7 @@
 
 #### 2024-09-06
 
--
+- Finished html-css-beginner project (cat website)
+- Learned how to use CSS as a cascading style sheet to keep code more organized
+- Started Google Copycat page
+- Learned some text and icon styles and formatting
