@@ -23,3 +23,7 @@
 - Learned how to use CSS as a cascading style sheet to keep code more organized
 - Started Google Copycat page
 - Learned some text and icon styles and formatting
+
+#### 2024-09-17
+
+- Continued Google Copycat page
